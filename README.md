@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mladan Ilic Portfolio <a name="about-project"></a>
+# 📖 Mladan Ilic MyFirstCapstoneProject <a name="about-project"></a>
 
-**Mladan Ilic Portfolio** is about my work experiences.
+**MyFirstCapstoneProject** is about Exit Music Festival.
 
 ## 🛠 Built With <a name="built-with"></a>
 
