@@ -25,8 +25,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mladan Ilic MyFirstCapstoneProject <a name="about-project"></a>
-
+# 📖 Mladan Ilic My First Capstone Project <a name="about-project"></a>
+Link to the descrition video: https://www.loom.com/share/511e6fed68494993b7e4b9660f15f535
 **MyFirstCapstoneProject** is about Exit Music Festival.
 
 ## 🛠 Built With <a name="built-with"></a>
