@@ -9,6 +9,7 @@ body {
 
 .header-section,
 #desk,
+#kojmoj,
 .less,
 .featured-speakers-column,
 .featured-speakers-column1,
@@ -89,7 +90,7 @@ body {
   color: #344563;
 }
 
-.text {
+h1 {
   font-size: large;
   color: #f7f7f8;
 }

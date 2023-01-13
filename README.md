@@ -19,7 +19,7 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+- [🙏Acknowledge ments](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
@@ -190,7 +190,8 @@ If you like this project then please do follow and support me.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my all contributors who supported me in this project.
+I would like to thank  Cindy Shin the author of the original design.
+Creative Commons License https://creativecommons.org/licenses/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
