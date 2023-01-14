@@ -39,6 +39,11 @@
     text-align: center;
   }
 
+  p {
+    position: relative;
+    bottom: 4rem;
+  }
+
   a {
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
@@ -81,9 +86,9 @@
     height: 103px;
     position: relative;
     width: 4px;
-    left: -7rem;
+    left: -11rem;
     rotate: 90deg;
-    background-color: darkred;
+    background-color: #f44336;
   }
 
   .second-row {
@@ -107,6 +112,7 @@
     font-size: smaller;
     color: #d3d3d3;
     text-align: center;
+    top: 0.3rem;
   }
 
   #featured-speakers {
@@ -213,6 +219,11 @@
     background-color: #ec5242;
   }
 
+  h1 {
+    position: relative;
+    bottom: 4rem;
+  }
+
   .kineki {
     font-size: smaller;
   }
@@ -227,6 +238,7 @@
     flex-direction: row;
     gap: 4rem;
     align-items: center;
+    list-style-type: none;
   }
 
   .row-2 {
@@ -275,7 +287,7 @@
 
   .items {
     display: flex;
-    padding-left: 5rem;
+    padding-left: 12rem;
     align-items: center;
   }
 
