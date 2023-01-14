@@ -39,6 +39,11 @@
     text-align: center;
   }
 
+  p {
+    position: relative;
+    bottom: 4rem;
+  }
+
   a {
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
@@ -81,9 +86,9 @@
     height: 103px;
     position: relative;
     width: 4px;
-    left: -7rem;
+    left: -11rem;
     rotate: 90deg;
-    background-color: darkred;
+    background-color: #f44336;
   }
 
   .second-row {
@@ -107,6 +112,7 @@
     font-size: smaller;
     color: #d3d3d3;
     text-align: center;
+    top: 0.3rem;
   }
 
   #featured-speakers {
@@ -211,6 +217,11 @@
     width: 3rem;
     left: 2em;
     background-color: #ec5242;
+  }
+
+  h1 {
+    position: relative;
+    bottom: 4rem;
   }
 
   .kineki {
