@@ -276,7 +276,7 @@
 
   .items {
     display: flex;
-    padding-left: 5rem;
+    padding-left: 12rem;
     align-items: center;
   }
 
@@ -323,7 +323,7 @@
     -webkit-text-fill-color: transparent;
   }
 
-  h5 {
+  h2 {
     color: #6f7676;
     font-weight: lighter;
   }
@@ -353,5 +353,6 @@
     letter-spacing: 0.03em;
     color: red;
     background-color: white;
+    margin-right: 110px;
   }
 }
