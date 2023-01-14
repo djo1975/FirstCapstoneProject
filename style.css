@@ -113,6 +113,10 @@ h1 {
   background-color: #ec5242;
 }
 
+.ul {
+  list-style-type: none;
+}
+
 .textmp {
   position: relative;
   font-size: smaller;

@@ -227,6 +227,7 @@
     flex-direction: row;
     gap: 4rem;
     align-items: center;
+    list-style-type: none;
   }
 
   .row-2 {
@@ -322,7 +323,7 @@
     -webkit-text-fill-color: transparent;
   }
 
-  h2 {
+  h5 {
     color: #6f7676;
     font-weight: lighter;
   }
@@ -352,6 +353,5 @@
     letter-spacing: 0.03em;
     color: red;
     background-color: white;
-    margin-right: 110px;
   }
 }

@@ -146,7 +146,7 @@
   }
 
   .con {
-    font-size: small;
+    font-size: medium;
     margin: 1rem;
     color: #8f8f8e;
     padding: 2rem 1rem 2rem 1rem;
@@ -154,6 +154,7 @@
     background-color: #fff;
     text-align: center;
   }
+
 
   h3 {
     font-size: larger;
@@ -271,6 +272,6 @@
     letter-spacing: 0.03em;
     color: red;
     background-color: white;
-    margin-right: 110px;
+    margin-right: 6rem;
   }
 }
